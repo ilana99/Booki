@@ -23,7 +23,7 @@ body {
     display: flex;
     justify-content: center;
     margin: 0px;
-    background: white;
+    background: var(--main-bg-color);
 }
 
 .main-container {
